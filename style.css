@@ -1,0 +1,16 @@
+body {
+    background-image: url("https://i.pinimg.com/736x/7f/d2/6c/7fd26c9b825c16103da791d198f12d1a.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+hr {
+    color: black;
+}
+
+.meu-formulario {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    align-content: end;
+    background-color: rgba(71, 54, 54, 0.363);
+}
