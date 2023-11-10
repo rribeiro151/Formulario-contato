@@ -1,10 +1,10 @@
 body {
-    background-image: url("https://i.pinimg.com/736x/7f/d2/6c/7fd26c9b825c16103da791d198f12d1a.jpg");
+    background-image: url("https://webneel.com/wallpaper/sites/default/files/images/08-2018/2-nature-wallpaper-grass.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
 }
 hr {
-    color: black;
+    color: rgba(0, 0, 0, 0.966);
 }
 
 .meu-formulario {
@@ -12,5 +12,5 @@ hr {
     justify-content: center;
     align-items: center;
     align-content: end;
-    background-color: rgba(71, 54, 54, 0.363);
+    background-color: rgba(71, 54, 54, 0.13);
 }
